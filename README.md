@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### Welcome to my profile!
+## Hi there! Welcome to my profile! 👋
 
 # ESPChong 🔥
 ![Profile views](https://komarev.com/ghpvc/?username=ESPChong&color=blueviolet&style=flat-square)
