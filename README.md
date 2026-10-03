@@ -2,8 +2,6 @@
 
 ### Welcome to my profile!
 
----
-
 # ESPChong 🔥
 ![Profile views](https://komarev.com/ghpvc/?username=ESPChong&color=blueviolet&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/ESPChong?label=Followers&style=social)
