@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my profile! 👋
 
-# ESPChong 🔥
+# ESPChong (My name is Corrin) 
 ![Profile views](https://komarev.com/ghpvc/?username=ESPChong&color=blueviolet&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/ESPChong?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ESPChong?label=Stars&style=social)
