@@ -11,7 +11,7 @@ I'm a **full-stack developer** with a passion for building scalable, intelligent
 
 - 🔭 I’m currently working on **enterprise-grade AI solutions** that leverage multimodal RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol) servers
 - 🌱 I’m constantly learning about **AI orchestration**, **vector databases**, and **real-time analytics** systems
-- 💬 Ask me about **Next.js**, **Express.js**, **FastAPI**, **LangChain**, **Docker**, **TypeScript**, **Python**, and **microservices architecture**
+- 💬 Ask me about **Next.js**, **Express.js**, **FastAPI**, **LangChain**, **Docker**, **TypeScript**, and **Python**
 - ⚡ Fun fact: I believe **clean code** is like a good recipe - it should be understandable by others and easily modifiable
 
 
