@@ -2,7 +2,7 @@
 
 # ESPChong A.K.A. Corrin
 
-![Profile views](https://komarev.com/ghpvc/?username=ESPChong&color=blueviolet&style=flat-square)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ESPChong.ESPChong&)](https://github.com/ESPChong/ESPChong)
 ![GitHub followers](https://img.shields.io/github/followers/ESPChong?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ESPChong?label=Stars&style=social)
 
