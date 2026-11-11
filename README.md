@@ -24,7 +24,6 @@ I'm a **full-stack developer** with a passion for building scalable, intelligent
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
@@ -34,6 +33,10 @@ I'm a **full-stack developer** with a passion for building scalable, intelligent
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
+### Full-Stack Development 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+
 ### Databases & Storage
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -41,15 +44,21 @@ I'm a **full-stack developer** with a passion for building scalable, intelligent
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-## Testing Tools / Libraries
+### Testing / E2E
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Pest](https://img.shields.io/badge/-Pest-1C1C1C?style=flat-square&logo=pest&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-4F5B93?style=flat-square&logo=php&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+### API Tools
+![Bruno](https://img.shields.io/badge/-Bruno-FC6D26?style=flat-square&logo=bruno&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### AI & Machine Learning
+### AI Workflows
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ### DevOps
@@ -58,9 +67,8 @@ I'm a **full-stack developer** with a passion for building scalable, intelligent
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### Documentation & API Tools
-![Swagger](https://img.shields.io/badge/-Swagger_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### Documentation
+![Swagger Docs](https://img.shields.io/badge/-Swagger_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 
 ## 📊 GitHub Statistics
 
