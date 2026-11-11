@@ -50,7 +50,7 @@ I'm a **full-stack developer** with a passion for building scalable, intelligent
 ![Pest](https://img.shields.io/badge/-Pest-1C1C1C?style=flat-square&logo=pest&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-4F5B93?style=flat-square&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=black)
 
 ### API Tools
 ![Bruno](https://img.shields.io/badge/-Bruno-FC6D26?style=flat-square&logo=bruno&logoColor=white)
