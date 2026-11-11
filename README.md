@@ -10,8 +10,8 @@
 I'm a **full-stack developer** with a passion for building scalable, intelligent applications that bridge the gap between cutting-edge AI and practical user experiences. My expertise spans from designing robust APIs to creating intuitive frontend interfaces, with a particular focus on integrating AI capabilities into real-world solutions.
 
 - 🔭 I’m currently working on **enterprise-grade AI solutions** that leverage multimodal RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol) servers
-- 🌱 I’m constantly learning about **AI orchestration**, **vector databases**, and **real-time analytics** systems
-- 💬 Ask me about **Next.js**, **Express.js**, **FastAPI**, **LangChain**, **Docker**, **TypeScript**, and **Python**
+- 🌱 I’m constantly learning about **AI orchestration**, **AI workflows**, and **testing pipelines**
+- 💬 Ask me about **Next.js / Express.js**, **FastAPI**, **LangChain**, **Docker**, and **Python**
 - ⚡ Fun fact: I believe **clean code** is like a good recipe - it should be understandable by others and easily modifiable
 
 
@@ -40,6 +40,13 @@ I'm a **full-stack developer** with a passion for building scalable, intelligent
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+## Testing Tools / Libraries
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)]
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]
+![Pest](https://img.shields.io/badge/Pest-1C1C1C?style=for-the-badge&logo=pest&logoColor=white)]
+![PHPUnit](https://img.shields.io/badge/PHPUnit-4F5B93?style=for-the-badge&logo=php&logoColor=white)]
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]
 
 ### AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
